@@ -1,3 +1,21 @@
+# Custom
+_*
+*.out
+*.zip
+.experiment_log.md
+draft.md
+
+*_files/
+*.html
+
+data/
+models/
+results/
+notebooks/plots
+logs/
+venv/
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
